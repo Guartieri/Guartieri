@@ -35,7 +35,11 @@ I am passionate about programming and I seek to learn more and more in order to 
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   <br> <br>
   
-  <b>Contact Me</b>
+  <b>Connect with me</b>
   <p align="left">
   <a href="https://www.facebook.com/vinicius.guartieri/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/vinicius.guartieri/"/></a>
+  <a href="https://www.instagram.com/invites/contact/?i=k5tqln9aawmd&utm_content=648t2s" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/invites/contact/?i=k5tqln9aawmd&utm_content=648t2s"/></a>
+    <a href="https://api.whatsapp.com/send?phone=5511985828693" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511985828693"/></a>
