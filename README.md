@@ -34,6 +34,7 @@ I am passionate about programming and I seek to learn more and more in order to 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   <br> <br>
+  [![card](https://github-readme-stats.vercel.app/api?username=guartieri&theme=highcontrast)](https://github.com/guartieri/)
   
   <b>Connect with me</b>
   <p align="left">
