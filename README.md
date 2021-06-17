@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-## 👋 Hi, my name is <strong>Vinícius Guartieri!</strong>
+## 👋 Hi there, my name is <strong>Vinícius Guartieri!</strong>
 
 > My goal in life is to be able to help people understand that abundance is a reality and that life gives us many reasons to be grateful.
 I am passionate about programming and I seek to learn more and more in order to develop myself professionally!
